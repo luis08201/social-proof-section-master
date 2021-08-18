@@ -32,7 +32,7 @@ body {
 .main__container {
   position: relative;
   width: 100%;
-  height: 100vh;
+  height: 100%;
   padding: 0.1px;
 }
 .main__container--bgi-top {
